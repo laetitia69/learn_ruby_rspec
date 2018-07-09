@@ -16,9 +16,9 @@ def multiply(x, y)
 end
 
 def power(x, y)
-	return x.pow(y)
+	return x ** y
 end
 
 def factorial(x, y)
-	fraction = Rational(x, y)
+	
 end
